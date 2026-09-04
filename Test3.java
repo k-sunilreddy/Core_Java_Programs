@@ -7,7 +7,7 @@ public class Test3 {
 	}
 	
 	// JVM creates objects automatically when method is declared with static in class level.
-	// Therefore there no need to create object for welcome method in main method or class level.
+	// Therefore there no need to create object for welcome method in main method or with a static keyword in class level.
 	public static void welcome()
 	{
 		System.out.println("Welcome to Vcube Family");

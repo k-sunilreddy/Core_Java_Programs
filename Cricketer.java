@@ -78,7 +78,6 @@ public class Cricketer {
 		System.out.println("Main Method Ended");
 	
 		
-		
 	}
 
 }
