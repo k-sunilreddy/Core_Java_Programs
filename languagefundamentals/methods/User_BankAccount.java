@@ -40,7 +40,8 @@ public class User_BankAccount {
 	{
 		System.out.println("Your Current Balance in Bank account:"+balance);
 	}
-	// method updateaddress without return type and with parameters
+	
+	// method update address without return type and with parameters
 	static void updateAddress(String newaddress)
 	{
 		if(newaddress.equals(address))
