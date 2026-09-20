@@ -16,7 +16,8 @@ public class Test3 {
 
 	public static void main(String[] args) {
 		System.out.println("Main Method Started");
-		welcome();// we can call static method directly in static area, but cannot call instance method directly in static area.
+		// we can call static method directly in static area, but cannot call instance method directly in static area.
+		welcome();
 		System.out.println("Main Method Ended");
 	}
 
