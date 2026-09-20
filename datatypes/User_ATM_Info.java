@@ -12,7 +12,7 @@ public class User_ATM_Info {
 	int withdrawal;
 	float check_balance;
 	
-	// creating instance method with return type and with arguments
+	// creating instance method without return type and with parameters
 	void deposit(int depositamount)
 	{
 		System.out.println("Your Amount is Succesfully Credited: "+depositamount);
