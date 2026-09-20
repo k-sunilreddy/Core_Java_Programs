@@ -4,6 +4,7 @@ package com.languagefundamentals.methods;
 
 public class TestMethodDemo3 {
 	
+	// Main Method
 	public static void main(String[] args) {
 		System.out.println("Main method Started");
 		
@@ -25,8 +26,10 @@ public class TestMethodDemo3 {
 		double AroC=AreaOfCircle();
 		System.out.println("Area of Circle:"+AroC);
 	}
+	
 	// creating different methods of Areas of each Shapes
-	// method with return type ,but method with no parameter
+	// static method with return type ,but method with no parameter
+	
 	static double AreaofTriangle()
 	{
 		double base=10;
@@ -36,6 +39,7 @@ public class TestMethodDemo3 {
 		double ArOfTri=base*height;
 		return ArOfTri;
 	}
+	
 	static double AreaofRectangle()
 	{
 		double length = 10;
@@ -45,6 +49,7 @@ public class TestMethodDemo3 {
 		double ArOfRec=length * breadth;
 		return ArOfRec;
 	}
+	
 	static double AreaOfSquare()
 	{
 		int side=10;
@@ -52,6 +57,7 @@ public class TestMethodDemo3 {
 		double ArOfSq = side * side;
 		return ArOfSq;
 	}
+	
 	static double AreaOfCircle()
 	{
 		int r = 10;
