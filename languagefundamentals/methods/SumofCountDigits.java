@@ -1,6 +1,6 @@
 package com.languagefundamentals.methods;
 
-// calculating sum of count of digits of a number
+// calculating sum of count of digits of a number.
 public class SumofCountDigits {
 
 	static int a=733070893;
