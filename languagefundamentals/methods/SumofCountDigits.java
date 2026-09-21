@@ -6,6 +6,8 @@ public class SumofCountDigits {
 	static int a=733070893;
 	static int count=0;
 	static int sum=0;
+	
+	// declaration of static method with return type and no parameters
 	static int sumofCount()
 	{
 		while (a>0)
