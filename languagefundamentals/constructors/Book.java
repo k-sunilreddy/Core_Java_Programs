@@ -24,7 +24,7 @@ public class Book {
 		
 	}
 	
-	// method to display the book details
+	// display method to display the book details
 	void display()
 	{
 		System.out.println("Book ID : "+bookId);
