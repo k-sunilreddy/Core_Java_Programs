@@ -21,7 +21,7 @@ public class BankAccount {
 		this.branch=branch;
 	}
 	
-	// copy constructor 
+	// copy constructor --> copying the same parameters of parameterized constructor to copy constructor.
 	BankAccount(BankAccount account)
 	{
 		this.accountNumber=account.accountNumber;

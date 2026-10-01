@@ -47,5 +47,6 @@ public class ElectricCar extends Car
 		System.out.println(" Battery Capacity : "+batterycapacity);
 	}
 	
+	
 }
 
