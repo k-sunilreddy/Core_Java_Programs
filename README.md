@@ -10,7 +10,8 @@ This repository contains my Core Java programs and practice assignments.
 - Constructors
 - Static and Instance Members
 - Classes and Objects
-- Contidinal Statements
+- Conditional Statements 
+    - (If statements, If-Else statements, Nested If-Else Statements)
 - Inheritance
 - Polymorphism
 - Method Overloading
