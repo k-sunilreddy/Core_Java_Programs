@@ -23,6 +23,7 @@ public class ArthimeticOperators {
 		
 		System.out.println("Main Method Ended");
 		sc.close();
+		
 	}
 
 }
