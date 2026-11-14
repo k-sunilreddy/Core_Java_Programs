@@ -11,8 +11,15 @@ This repository contains my Core Java programs and practice assignments.
 - Static and Instance Members
 - Classes and Objects
 - Conditional Statements 
-    - (If statements, If-Else statements, Nested If-Else Statements)
+    - (If statement, If-Else statements, Nested If-Else Statements)
+- Control Statements
+    - (do-While Loop, While Loop, For Loop)
+- Abstraction
+- Encapsulation
 - Inheritance
 - Polymorphism
 - Method Overloading
 - Method Overriding
+- Arrays
+
+
