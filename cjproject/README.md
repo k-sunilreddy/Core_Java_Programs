@@ -1,8 +1,10 @@
 # Online Shopping Cart Super Market Management System
 
+# A console-based project outcome developed by using the core java concepts
+
 This is a basic project outcome that basically used in mini markets, managements and Online Shopping Carts.
 
-# This is project outcome is usally developed using basic concepts of Java.
+# This project outcome is usally developed using concepts of Java.
 Where it covers:
 
 - Variables
