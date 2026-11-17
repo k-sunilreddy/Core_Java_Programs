@@ -1,4 +1,4 @@
-package com.conditionalstatements;
+package com.conditionalstatements.switchcases;
 
 import java.util.Scanner;
 
